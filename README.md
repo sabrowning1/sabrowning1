@@ -1,9 +1,9 @@
-### Hello! 👋 I'm Sam, a(n)...
+### Hello! 👋 I'm Sam, a...
 
-* **Technical Writer here at GitHub** :octocat: — basically, I work on guides that teach people how to use GitHub and its products. Pretty cool!
-* **avid [Spikeball](https://en.wikipedia.org/wiki/Roundnet) player** :sunny: — if you haven't heard of it, check out that link 👀
-* **hiker and amateur rock-climber** :mount_fuji: — in early 2022, I got particularly into [bouldering](https://en.wikipedia.org/wiki/Bouldering), and I have plenty of room for improvement...
-* **big Still Woozy fan** :notes: — saw him in concert in June of 2022, would definitely recommend 💯
+* Technical Writer here at GitHub :octocat:
+* [Spikeball](https://en.wikipedia.org/wiki/Roundnet) and [pickleball](https://usapickleball.org/what-is-pickleball/) enthusiast :sunny:
+* hiker and amateur rock-climber :mount_fuji:
+* big Still Woozy fan :notes:
 
 ### In the past, I've...
 
